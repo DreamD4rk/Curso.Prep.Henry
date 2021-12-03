@@ -37,7 +37,7 @@ Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla
 npm test {nombre del homework}.test.js
 ```
 
-Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSI.test.js`
+Por ejemplo, para ejecutar los tests del homework 02, ejecutar: `npm test JSII.test.js`
 el del homework 01: `npm test JSI.test.js`
 y así.
 
